@@ -1,4 +1,4 @@
-# RAD
+# Research Advancement Division
  RAD Contracts
 
 A science contract pack by Morphisor
