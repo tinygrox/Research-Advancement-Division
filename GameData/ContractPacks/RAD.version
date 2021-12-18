@@ -1,7 +1,7 @@
 {
-	"NAME":"Contract Pack: Historical Progression",
-	"URL":"https://github.com/Frylovespi/History-of-Spaceflight/blob/master/RSS/GameData/ContractPacks/HistoryofSpaceflight/HistoryofSpaceflight.version",
-	"DOWNLOAD":"https://github.com/Frylovespi/History-of-Spaceflight/releases",
+	"NAME":"Contract Pack: Research Advancement Division",
+	"URL":"https://github.com/Morphisor244/Research-Advancement-Division/blob/main/GameData/ContractPacks/RAD.version",
+	"DOWNLOAD":"https://github.com/Morphisor244/Research-Advancement-Division/releases",
 	"VERSION":
 	{
 		"MAJOR":1,
@@ -12,8 +12,8 @@
 	"KSP_VERSION":
 	{
 		"MAJOR":1,
-		"MINOR":8,
-		"PATCH":1
+		"MINOR":12,
+		"PATCH":3
 	},
 	"KSP_VERSION_MIN":
 	{
