@@ -1,3 +1,11 @@
 **Version 1.0.0
 - Initial release
 - 5 contracts and a new agent with custom logo included
+
+**Version 1.0.1
+- Folder structure fixed
+
+**Version 1.1.0
+- Added contract Local Observation Flight: large set of experiments in flight, for a single biome
+- Changed Leftovers contract to only request experiments from a single situation instead of a mix. Beware, this may reduce ability for the contract to generate.
+- Minor improvements to subject selection logic
