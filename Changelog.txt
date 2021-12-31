@@ -9,3 +9,6 @@
 - Added contract Local Observation Flight: large set of experiments in flight, for a single biome
 - Changed Leftovers contract to only request experiments from a single situation instead of a mix. Beware, this may reduce ability for the contract to generate.
 - Minor improvements to subject selection logic
+
+**Version 1.2.0
+- Added contract Surface analysis: smaller set of experiments than the existing surface study, but spread out over 2 biomes instead. Goal is to allow for smaller craft(probes) to be more feasible for surface missions.

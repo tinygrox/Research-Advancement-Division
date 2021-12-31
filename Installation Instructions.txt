@@ -2,7 +2,8 @@ How to install Research Advancement Division (RAD):
 
 0. Be sure to have the latest version of Contract Configurator installed.
 1. Copy the GameData folder into your main KSP directory.
-2. When updating to a new version it's best to delete the previously installed version entirely, as well as ModuleManager.ConfigCache, and ModuleManager.ConfigSHA from your GameData folder to make sure it loads the new contracts that were added.
+2. To ensure the best functionality for the surface contracts, navigate to the Contract Configurator main folder (located at Gamedata/ContractConfigurator) and delete the files named BiomeData.cfg and BiomeDataDefault.cfg. Once you load up the game of your choice the biomedata will be automatically regenerated, this time with the correct values.
+3. When updating to a new version it's best to delete the previously installed version entirely, as well as ModuleManager.ConfigCache, and ModuleManager.ConfigSHA from your GameData folder to make sure it loads the new contracts that were added.
 
 Kerbalism Users: The contracts in this pack have scientific objectives, requiring the completion of experiments. 
 Kerbalism changes some of the science definitions involved and/or the way the experiments are run. 
