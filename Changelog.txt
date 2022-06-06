@@ -12,3 +12,7 @@
 
 **Version 1.2.0
 - Added contract Surface analysis: smaller set of experiments than the existing surface study, but spread out over 2 biomes instead. Goal is to allow for smaller craft(probes) to be more feasible for surface missions.
+
+**Version 1.2.1
+- Improved Local Observation flight subject selection logic to hopefully avoid requesting impossible experiments
+- Changed max simultaneous contracts to 7, matching the number of available contract types.
